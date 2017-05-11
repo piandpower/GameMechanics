@@ -1,0 +1,3 @@
+[submodule "Content/Submodules/GDK"]
+	path = Content/Submodules/GDK
+	url = https://rkorovin@bitbucket.org/dotsgroup/gdk.git
