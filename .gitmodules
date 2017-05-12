@@ -1,0 +1,5 @@
+
+[submodule "Content/GDK"]
+	path = Content/GDK
+	url = https://rkorovin@bitbucket.org/dotsgroup/gdk.git
+	branch = master
