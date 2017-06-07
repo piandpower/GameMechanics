@@ -1,5 +1,5 @@
 
 [submodule "Content/GDK"]
 	path = Content/GDK
-url=https://github.com/rkorovin/GDK.git
+url=https://github.com/rkorovin/GDK-Blueprints.git
 	branch = master
