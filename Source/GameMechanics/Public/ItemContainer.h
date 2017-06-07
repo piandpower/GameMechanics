@@ -28,6 +28,12 @@ class GAMEMECHANICS_API UItemContainer : public UObject
 	GENERATED_BODY()
 	
 public:
+	void AddItem(UItem* item);
+	void RemoveItem(FName itemName, int pos);
+	void RemoveItem(UItem* item);
+	TArray<UItem*> GetAllItems();
+
+private:
 	TMap<FName, FItemGroupStruct*> Items;
 	
 	
