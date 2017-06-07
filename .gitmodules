@@ -3,3 +3,6 @@
 	path = Content/GDK
 url=https://github.com/rkorovin/GDK-Blueprints.git
 	branch = master
+[submodule "Source/GameMechanics/GDK"]
+	path = Source/GameMechanics/GDK
+	url = https://github.com/rkorovin/GDK-Sources.git
