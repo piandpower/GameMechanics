@@ -6,3 +6,6 @@ url=https://github.com/rkorovin/GDK-Blueprints.git
 [submodule "Source/GameMechanics/GDK"]
 	path = Source/GameMechanics/GDK
 	url = https://github.com/rkorovin/GDK-Sources.git
+[submodule "Source/GDK"]
+	path = Source/GDK
+	url = https://github.com/rkorovin/GDK-GameModule.git
