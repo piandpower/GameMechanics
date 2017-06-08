@@ -12,6 +12,11 @@
 				"CoreUObject",
 				"Engine"
 			]
+		},
+		{
+			"Name": "GDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [

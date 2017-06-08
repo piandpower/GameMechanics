@@ -9,6 +9,6 @@ public class GameMechanicsTarget : TargetRules
 	{
 		Type = TargetType.Game;
 
-		ExtraModuleNames.AddRange( new string[] { "GameMechanics" } );
+		ExtraModuleNames.AddRange( new string[] { "GameMechanics", "GDK" } );
 	}
 }
